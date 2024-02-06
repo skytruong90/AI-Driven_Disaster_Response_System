@@ -22,7 +22,7 @@ This project aims to develop an AI-driven platform specifically designed to enha
 - **Backend:** Python with Django or Flask for handling data processing and model integration.
 - **Frontend:** A user-friendly interface designed with HTML, CSS, and JavaScript, utilizing React or Angular for dynamic updates.
 - **Integration of AI Models:** Seamlessly integrate AI models to process and analyze seismic data in real-time.
-- **Database Management:** Implement PostgreSQL or MongoDB for efficient data storage and retrieval.
+- **Database Management:** Implement PostgreSQL for efficient data storage and retrieval.
 
 ## 6. Testing and Iteration
 - **Unit and Integration Testing:** To ensure reliability and functionality of all system components.
