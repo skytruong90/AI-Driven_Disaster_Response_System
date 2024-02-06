@@ -29,7 +29,7 @@ This project aims to develop an AI-driven platform specifically designed to enha
 - **User Testing:** Engage with potential end-users for feedback and system refinement.
 
 ## 7. Deployment
-- **Cloud Platform:** Leverage AWS, Google Cloud, or Azure for scalable and reliable hosting.
+- **Cloud Platform:** Leverage AWS for scalable and reliable hosting.
 - **CI/CD Pipelines:** Implement for streamlined testing and deployment processes.
 
 ## 8. Launch and Monitoring
